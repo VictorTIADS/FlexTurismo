@@ -320,5 +320,6 @@ footer .footer {
     }
     footer .footer p {
         margin: 4px;
+        text-align: center;
     }
 }
